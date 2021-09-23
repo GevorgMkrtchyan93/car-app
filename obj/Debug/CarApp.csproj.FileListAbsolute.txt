@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\User\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe
+C:\Users\User\source\repos\CarApp\CarApp\bin\Debug\CarApp.pdb
+C:\Users\User\source\repos\CarApp\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarApp\CarApp\obj\Debug\CarApp.exe
+C:\Users\User\source\repos\CarApp\CarApp\obj\Debug\CarApp.pdb
